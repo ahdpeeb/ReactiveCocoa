@@ -1,3 +1,9 @@
 [submodule "VideoPlayer/external/ReactiveCocoa"]
 	path = VideoPlayer/external/ReactiveCocoa
 	url = https://github.com/ReactiveCocoa/ReactiveCocoa.git
+[submodule "VideoPlayer/external/ReactiveCohttps:/github.com/ReactiveCocoa/ReactiveObjC.git"]
+	path = VideoPlayer/external/ReactiveCohttps:/github.com/ReactiveCocoa/ReactiveObjC.git
+	url = https://github.com/ReactiveCocoa/ReactiveCocoa.git
+[submodule "VideoPlayer/external/ReactiveObjC"]
+	path = VideoPlayer/external/ReactiveObjC
+	url = https://github.com/ReactiveCocoa/ReactiveObjC.git
